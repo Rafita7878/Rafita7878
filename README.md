@@ -1,6 +1,10 @@
 ## Hi there 👋
-## I’m currently learning how to use github
-## I’m looking for help with Java 🤔
+
+---
+
+🎓 **I’m currently learning how to use GitHub**  
+💻 **I’m looking for help with Java 🤔**
+
 <!--
 **Rafita7878/Rafita7878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
